@@ -1,7 +1,8 @@
 # WeatherApp
 #### Aplicativo que pega a previsao do tempo para a próxima semana e popula uma Grid tkinter
 
-![Foto do App rodando] (https://github.com/guidolingip1/weatherApp/desktop.png) 
+![Foto do App rodando] (https://github.com/guidolingip1/weatherApp/blob/master/desktop.png) 
+
 
 
 Criei este aplicativo por vontade de aprimorar meus conhecimentos em python.
